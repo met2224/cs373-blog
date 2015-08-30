@@ -9,7 +9,7 @@ name: "CS 373: James Sweetman"
 description: UTCS Class of 2016
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /blog/images/james_head.jpg
+avatar: /cs373-blog/images/james_head.jpg
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url: http://jsweetman.me
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/blog"
+baseurl: "/cs373-blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
